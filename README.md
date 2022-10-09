@@ -1,3 +1,9 @@
+
+
+
+![alt text](https://github.com/S1nDev/Looting-the-Lovure/blob/main/Screenshot%202022-10-09%20154530.png)
+
+
 Welcome to Looting the Louvre! - Team ID: 2068
 
 For our online, platform abiguous version, please follow the "CLICK ME LINK" or the link in this readme.md file. 
